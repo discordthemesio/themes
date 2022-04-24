@@ -1,0 +1,23 @@
+/**
+* @name Black Widow
+* @version 1
+* @description This is a discord theme of Black Widow, also known as Natasha Romanoff, was an assasin and agent for S.H.I.E.L.D, gaining her abilities from being trained in the red room. 
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #FF0002FF;
+--themeColor2: #FF0002FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #030101FF;
+--backgroundImage: url('https://i.imgur.com/oKbQsAP.jpg');
+--backgroundPosition: right;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.35;
+}

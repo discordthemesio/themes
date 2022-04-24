@@ -1,0 +1,23 @@
+/**
+* @name Anime Girl Red
+* @version Auto Update
+* @description A waifu is typically a fictional girl or woman whom which nerds have a sexual attraction to and would even consider coul bonding with (crazy, i know). Here's your very own anime girl discord theme. This theme is compatible with Better Discord.
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #DC4826FF;
+--themeColor2: #DC4826FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/IzXQA4N.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.35;
+}

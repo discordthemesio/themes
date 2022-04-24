@@ -1,0 +1,23 @@
+/**
+* @name Wanda Maximoff
+* @version 1
+* @description A discord theme of Wanda Maximoff, an powerful character left an orphan due to Tony Stark's technology. She was born with the ability to harness Chaos magic and uses it in the show Wanda Vision to enslave a whole town to live her reality.
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #FF0002FF;
+--themeColor2: #FF0002FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #030101FF;
+--backgroundImage: url('https://i.imgur.com/a3B3SbT.jpg');
+--backgroundPosition: right;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.45;
+}

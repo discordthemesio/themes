@@ -1,0 +1,23 @@
+/**
+* @name Firewatch Blue
+* @version 1
+* @description A blue theme from the game Firewatch, which has high quality graphics and is often used for wallpapers by many people. For more colours palettes of this type of wallpaper, check our website discordthemes.io 
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #5B86E5FF;
+--themeColor2: #5B86E5;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/CBE2y6f.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.5;
+}

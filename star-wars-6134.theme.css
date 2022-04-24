@@ -1,0 +1,23 @@
+/**
+* @name Kylo Ren
+* @version 1
+* @description A theme of Kylo Ren, who's first appearance was in the sequels. Once an apprentice to Luke Skywalker, he was driven into exile and then became a first order warlord and promised to kill all the Jedi
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #9291A7FF;
+--themeColor2: #9291A7FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #030101FF;
+--backgroundImage: url('https://i.imgur.com/gdVEsG7.jpg');
+--backgroundPosition: right;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.3;
+}

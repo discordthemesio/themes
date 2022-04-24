@@ -1,0 +1,23 @@
+/**
+* @name Darth Vader
+* @version 1
+* @description Darth Vader, the towering menacing villain who walks with an eerie, mechanical hiss wherever he goes. His first appearence is in episode IV of the Star Wars franchise - A New Hope.
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #143EA7FF;
+--themeColor2: #143EA7FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #030101FF;
+--backgroundImage: url('https://i.imgur.com/lc8MPTS.jpg');
+--backgroundPosition: left;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.4;
+}

@@ -1,0 +1,23 @@
+/**
+* @name Cherry Blossom
+* @version 1
+* @description A beautiful cherry blossom wallpaper, perfect for users who prefer a lighter discord theme. This theme is compatible with Better Discord
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #DC62D2FF;
+--themeColor2: #DC62D2FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/fiQjYs5.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.45;
+}

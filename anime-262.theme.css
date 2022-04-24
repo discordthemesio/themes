@@ -1,0 +1,23 @@
+/**
+* @name Aesthetic Anime Night
+* @version 1
+* @description This Better Discord anime theme is filled with pink streaks in the aesthetic blue night sky, with the decoration of distant galaxies. Below the heavens kays an entire anime city. This theme is comptaible with Better Discord. 
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #36D1DC;
+--themeColor2: #36D1DCFF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/CP2HccP.jpg');
+--backgroundPosition: left;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.45;
+}

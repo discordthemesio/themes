@@ -1,0 +1,23 @@
+/**
+* @name Minimalist Red Mountains
+* @version 1
+* @description A simplistic wallpaper design transformed into a discord theme. This, along with other wallpapers, is popular with many people and what better way to enjoy it's beauty than to make it a discord theme! Check out discordthemes.io for similar designs
+* @author discordthemes
+* @website discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #C40600FF;
+--themeColor2: #C40600FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/IQl8ZM8.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.5;
+}

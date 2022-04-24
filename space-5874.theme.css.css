@@ -1,0 +1,23 @@
+/**
+* @name Nebula
+* @version 1
+* @description A Better Discord theme with an extraordinary view of a nebula within space! This theme is compatible with Better Discord.
+* @author discordthemes
+* @author discordthemes.io
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #D84A11FF;
+--themeColor2: #D84A11FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/q9oLVAz.png');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/cQaowZZ.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.65;
+}
